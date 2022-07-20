@@ -1,0 +1,13 @@
+2022-07-20 19:07:743 INFO  LoggerHelper:28 - Base class
+2022-07-20 19:07:749 INFO  LoggerHelper:28 - Base class
+2022-07-20 19:07:753 INFO  LoggerHelper:36 - starting browser and launching application
+2022-07-20 19:07:135 INFO  LoggerHelper:53 - chrome browser started succesfully
+2022-07-20 19:07:137 INFO  LoggerHelper:44 - search for emrald ring
+2022-07-20 19:07:795 INFO  LoggerHelper:54 - Assert the previous search
+2022-07-20 19:07:853 INFO  LoggerHelper:62 - assert postage price, No of bids,price or show BuyItNow tag 
+2022-07-20 19:07:894 INFO  LoggerHelper:72 - sort the results by Lowest Price
+2022-07-20 19:07:935 INFO  LoggerHelper:76 - wait for element visibillity
+2022-07-20 19:07:41 INFO  LoggerHelper:86 - elemenet succesfully clicked...
+2022-07-20 19:07:633 INFO  LoggerHelper:121 - sort the results by Highest Price
+2022-07-20 19:07:666 INFO  LoggerHelper:126 - wait for element visibillity
+2022-07-20 19:07:718 INFO  LoggerHelper:136 - elemenet succesfully clicked...
